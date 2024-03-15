@@ -1,0 +1,14 @@
+/* NotFoundPage.module.css */
+
+.notFoundContainer {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.title {
+    color: #333;
+}
+
+.description {
+    color: #666;
+}
